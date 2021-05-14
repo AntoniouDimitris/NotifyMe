@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">QuietSense</string>
+
+    <string name="quest_notif_content">Click this notification to answer a few questions. Thank you for taking part!</string>
+
+    <string name="location_label">What is your location?</string>
+    <string name="privateradio_label">Private</string>
+    <string name="publicradio_label">Public</string>
+    <string-array name="locations_array">
+        <item>--- Select location type ---</item>
+    </string-array>
+    <string-array name="locations_private_array">
+        <item>Please select...</item>
+        <item>Home</item>
+        <item>Someone else\'s home</item>
+        <item>Doctor\'s office</item>
+        <item>Car</item>
+        <item>My office</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="locations_public_array">
+        <item>Please select...</item>
+        <item>Café</item>
+        <item>Church</item>
+        <item>Cinema</item>
+        <item>Clubs/Bars</item>
+        <item>Concert</item>
+        <item>Lecture / Seminar room</item>
+        <item>Gym / changing rooms</item>
+        <item>Hospital</item>
+        <item>Library</item>
+        <item>Public transport</item>
+        <item>Restaurant</item>
+        <item>School</item>
+        <item>Stadium</item>
+        <item>Study room</item>
+        <item>Theater</item>
+        <item>University</item>
+        <item>My workplace (company)</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="social_btn_label">Who you are with?</string>
+    <string name="social_label">Social Surrounding</string>
+    <string-array name="social_array">
+        <item>Alone</item>
+        <item>Colleagues - Boss</item>
+        <item>Colleagues - Coworkers</item>
+        <item>Family - Parents</item>
+        <item>Family - Relatives older than me</item>
+        <item>Family - Relatives similar age as me</item>
+        <item>Family - Relatives younger than me</item>
+        <item>Family - Siblings</item>
+        <item>Friends - Acquaintances</item>
+        <item>Friends - Close friends</item>
+        <item>Others - Older than me</item>
+        <item>Others - Persons of respect</item>
+        <item>Others - Similar age as me</item>
+        <item>Others - Younger than me</item>
+        <item>Partner - Boyfriend / Girlfriend</item>
+        <item>Partner - Husband / wife</item>
+        <item>Other</item>
+    </string-array>
+    <string name="alertdialog_error_message">You are either Alone or with others! Please try again! :)</string>
+    <string name="dismiss_btn_label">Dismiss</string>
+    <string name="ok_label">OK</string>
+    <string name="emptyalert_message">If nothing of the following happens, choose "OTHER"! :)</string>
+    <string name="dismiss_label">Dismiss</string>
+    <string name="clear_all_label">Clear all</string>
+
+    <string name="ongoing_activity_label">What are you doing now?</string>
+    <string-array name="activitytype_array">
+        <item>--- Select activity type ---</item>
+        <item>Please select...</item>
+        <item>Exercising</item>
+        <item>Leisure time</item>
+        <item>Relaxing</item>
+        <item>Social event</item>
+        <item>Studying</item>
+        <item>Travelling</item>
+        <item>Working</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="activity_array">
+        <item>--- Select activity ---</item>
+    </string-array>
+    <string-array name="activity_exercise">
+        <item>Please select...</item>
+        <item>Exercising alone</item>
+        <item>Group sports</item>
+        <item>Group exercise</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="activity_leisure">
+        <item>Please select...</item>
+        <item>Attending a match</item>
+        <item>Attending a play / performance</item>
+        <item>Attending group activities</item>
+        <item>Eating or drinking</item>
+        <item>Going to sleep</item>
+        <item>Having important discussion</item>
+        <item>Relaxing</item>
+        <item>Spending time together</item>
+        <item>Watching a movie</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="activity_relax">
+        <item>Please select...</item>
+        <item>Hanging out</item>
+        <item>Watching a movie</item>
+        <item>Reading</item>
+        <item>Doing a hobby</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="activity_socialevent">
+        <item>Please select...</item>
+        <item>Attending ceremony</item>
+        <item>Attending important event</item>
+        <item>Having important discussion</item>
+        <item>Visiting</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="activity_study">
+        <item>Please select...</item>
+        <item>Attending a lecture / seminar / classes</item>
+        <item>Studying</item>
+        <item>Taking an exam</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="activity_travel">
+        <item>Please select...</item>
+        <item>Travelling on bus</item>
+        <item>Travelling on train</item>
+        <item>Travelling on airplane</item>
+        <item>Travelling by car</item>
+        <item>Travelling by ship</item>
+        <item>Driving</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="activity_work">
+        <item>Please select...</item>
+        <item>Attending group activities</item>
+        <item>Having a work meeting</item>
+        <item>Having important discussion</item>
+        <item>Working</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="activity_other">
+        <item>Please select...</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="cancel_btn">Cancel</string>
+    <string name="submit_btn">Submit</string>
+    <string name="actKey">Saved_Act</string>
+    <string name="typeKey">Activity_Type</string>
+    <string name="probKey">Activity_Probability</string>
+    <string name="walking">Walking</string>
+    <string name="running">Running</string>
+    <string name="on_foot">On Foot</string>
+    <string name="in_vehicle">In Vehicle</string>
+    <string name="on_bicycle">On Bicycle</string>
+    <string name="still">Still</string>
+    <string name="tilting">Tilting</string>
+    <string name="unknown">Unknown</string>
+
+</resources>

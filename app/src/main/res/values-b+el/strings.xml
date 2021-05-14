@@ -1,0 +1,169 @@
+<resources>
+    <string name="app_name">QuietSense</string>
+
+    <string name="quest_notif_content">Πάτησε για να απαντήσεις σε μερικές ερωτήσεις.Ευχαριστούμε για την συμμετοχή!</string>
+
+    <string name="location_label">Σε τι τοποθεσία βρίσκεστε;</string>
+    <string name="privateradio_label">Ιδιωτική</string>
+    <string name="publicradio_label">Δημόσια</string>
+    <string-array name="locations_array">
+        <item>--- Επιλέξτε τοποθεσία ---</item>
+    </string-array>
+    <string-array name="locations_private_array">
+        <item>Παρακαλώ επιλέξτε...</item>
+        <item>Σπίτι</item>
+        <item>Σπίτι άλλου</item>
+        <item>Ιατρείο</item>
+        <item>Αυτοκίνητο</item>
+        <item>Στο γραφείο μου</item>
+        <item>Άλλο</item>
+    </string-array>
+    <string-array name="locations_public_array">
+        <item>Παρακαλώ επιλέξτε</item>
+        <item>Καφετέρια</item>
+        <item>Εκκλησία</item>
+        <item>Σινεμά</item>
+        <item>Κλαμπ/Μπαρ</item>
+        <item>Συναυλία</item>
+        <item>Διάλεξη / Αίθουσα σεμιναρίου</item>
+        <item>Γυμναστήριο / Αποδυτήρια</item>
+        <item>Νοσοκομείο</item>
+        <item>Βιβλιοθήκη</item>
+        <item>Μέσα μαζικής μεταφοράς</item>
+        <item>Εστιατόριο</item>
+        <item>Σχολείο</item>
+        <item>Γήπεδο</item>
+        <item>Αναγνωστήριο</item>
+        <item>Θέατρο</item>
+        <item>Πανεπιστήμιο</item>
+        <item>Στην δουλεία μου (εταιρία)</item>
+        <item>Άλλο</item>
+    </string-array>
+
+    <string name="social_btn_label">Με ποιούς άλλους είστε;</string>
+    <string name="social_label">Ο περίγυρός μου</string>
+    <string-array name="social_array">
+        <item>Μόνος/η</item>
+        <item>Συναδέλφους - Αφεντικό</item>
+        <item>Συναδέλφους - Συνεργάτες</item>
+        <item>Οικογένεια - Γονείς</item>
+        <item>Οικογένεια - Συγγενείς μεγαλύτεροι</item>
+        <item>Οικογένεια - Συγγενείς συνομήλικοι</item>
+        <item>Οικογένεια - Συγγενείς μικρότεροι</item>
+        <item>Οικογένεια - Αδέρφια</item>
+        <item>Φίλοι - Γνωστοί</item>
+        <item>Φίλοι - Στενοί φίλοι</item>
+        <item>Άλλους - Μεγαλύτερους</item>
+        <item>Άλλους - Πρόσωπα σεβασμού</item>
+        <item>Άλλους - Συνομήλικους</item>
+        <item>Άλλους - Μεγαλύτερους</item>
+        <item>Σύντροφος - Αγόρι / Κοπέλα</item>
+        <item>Σύντροφος - Ο/Η Σύζυγος</item>
+        <item>Άλλο</item>
+    </string-array>
+    <string name="alertdialog_error_message">Έχετε επιλέξει μόνος/η και ταυτόχρονα με άλλους! Παρακαλώ προσπαθείστε ξανά! :)</string>
+    <string name="dismiss_btn_label">Ακύρωση</string>
+    <string name="ok_label">ΑΠΟΔΟΧΗ</string>
+    <string name="emptyalert_message">Αν δεν ισχύει κάποιο από τα παρακάτω, Επιλέξτε "ΑΛΛΟ"! :)</string>
+    <string name="dismiss_label">ΑΚΥΡΩΣΗ</string>
+    <string name="clear_all_label">ΕΚΚΑΘΑΡΙΣΗ</string>
+
+    <string name="ongoing_activity_label">Τι κάνετε τώρα;</string>
+    <string-array name="activitytype_array">
+        <item>--- Επιλέξτε το είδος της δραστηριότητας ---</item>
+        <item>Παρακαλώ επιλέξτε</item>
+        <item>Άσκηση</item>
+        <item>Ελεύθερος χρόνος</item>
+        <item>Ξεκούραση</item>
+        <item>Κοινωνική εκδήλωση</item>
+        <item>Διάβασμα</item>
+        <item>Ταξίδι</item>
+        <item>Δουλειά</item>
+        <item>Άλλο</item>
+    </string-array>
+
+    <string-array name="activity_array">
+        <item>--- Επιλέξτε δραστηριότητα ---</item>
+    </string-array>
+
+    <string-array name="activity_exercise">
+        <item>Παρακαλώ επιλέξτε...</item>
+        <item>Άσκηση μόνος</item>
+        <item>Ομαδικά αθλήματα</item>
+        <item>Ομαδική άσκηση</item>
+        <item>Άλλο</item>
+    </string-array>
+    <string-array name="activity_leisure">
+        <item>Παρακαλώ επιλέξτε...</item>
+        <item>Παρακολουθώ έναν αγώνα</item>
+        <item>Παρακολουθώ έναν αγώνα/ παράσταση</item>
+        <item>Παρακολουθώ ομαδικές δραστηριότητες</item>
+        <item>Τρώω ή πίνω κάτι</item>
+        <item>Πάω για ύπνο</item>
+        <item>Έχω σημαντική συζήτηση</item>
+        <item>Ξεκούραση</item>
+        <item>Περνάω χρόνο μαζί με κάποιον</item>
+        <item>Βλέπω μια ταινία</item>
+        <item>Άλλο</item>
+    </string-array>
+    <string-array name="activity_relax">
+        <item>Παρακαλώ επιλέξτε....</item>
+        <item>Βγαίνω βόλτα έξω</item>
+        <item>Βλέπω μια ταινία</item>
+        <item>Διαβάζω</item>
+        <item>Κάνω ένα χόμπι</item>
+        <item>Άλλο</item>
+    </string-array>
+    <string-array name="activity_socialevent">
+        <item>Παρακαλώ επιλέξτε...</item>
+        <item>Παρακολουθώ μια τελετή</item>
+        <item>Παρακολουθώ ένα σημαντικό γεγονός</item>
+        <item>Έχω σημαντική συζήτηση</item>
+        <item>Επίσκεψη</item>
+        <item>Άλλο</item>
+    </string-array>
+    <string-array name="activity_study">
+        <item>Παρακαλώ επιλέξτε...</item>
+        <item>Παρακολουθώ διάλεξη / σεμινάριο / μαθήματα</item>
+        <item>Διαβάζω</item>
+        <item>Δίνω μάθημα στην εξεταστική</item>
+        <item>Άλλο</item>
+    </string-array>
+    <string-array name="activity_travel">
+        <item>Παρακαλώ επιλέξτε...</item>
+        <item>Ταξιδεύω με το λεωφορείο</item>
+        <item>Ταξιδεύω με το τρένο</item>
+        <item>Ταξιδεύω με το αεροπλάνο</item>
+        <item>Ταξιδεύω με το αυτοκίνητο</item>
+        <item>Ταξιδεύω με το πλοίο</item>
+        <item>Οδηγώ</item>
+        <item>Άλλο</item>
+    </string-array>
+    <string-array name="activity_work">
+        <item>Παρακαλώ επιλέξτε...</item>
+        <item>Συμμετοχή σε ομαδικές δραστηριότητες</item>
+        <item>Συνάντηση στη δουλειά</item>
+        <item>Συμμετέχω σε σημαντική συζήτηση</item>
+        <item>Δουλεύω</item>
+        <item>Άλλο</item>
+    </string-array>
+    <string-array name="activity_other">
+        <item>Παρακαλώ επιλέξτε...</item>
+        <item>Άλλο</item>
+    </string-array>
+
+    <string name="cancel_btn">Ακύρωση</string>
+    <string name="submit_btn">Υποβολή</string>
+    <string name="actKey">αχρηστο</string>
+    <string name="typeKey">Τύπος</string>
+    <string name="probKey">Πιθανότητα</string>
+    <string name="walking">Περπάτημα</string>
+    <string name="running">Τρέξιμο</string>
+    <string name="on_foot">Όρθιος</string>
+    <string name="in_vehicle">Σε Όχημα</string>
+    <string name="on_bicycle">Σε Ποδήλατο</string>
+    <string name="still">Ακίνητος</string>
+    <string name="tilting">Κλίση</string>
+    <string name="unknown">Άγνωστο</string>
+
+</resources>
